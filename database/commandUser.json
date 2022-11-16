@@ -1,0 +1,126 @@
+[
+  {
+    "jid": "6285955097613@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 22
+      },
+      {
+        "nama": "#infobot",
+        "count": 1
+      },
+      {
+        "nama": "#donate",
+        "count": 1
+      },
+      {
+        "nama": "#smeme",
+        "count": 3
+      },
+      {
+        "nama": "#sticker",
+        "count": 6
+      },
+      {
+        "nama": "#welcome",
+        "count": 1
+      },
+      {
+        "nama": "#speed",
+        "count": 3
+      },
+      {
+        "nama": "#nuliskiri",
+        "count": 1
+      },
+      {
+        "nama": "#emojimix",
+        "count": 5
+      },
+      {
+        "nama": "#toimage",
+        "count": 2
+      },
+      {
+        "nama": "#group",
+        "count": 1
+      },
+      {
+        "nama": "#runtime",
+        "count": 1
+      },
+      {
+        "nama": "#foliokiri",
+        "count": 1
+      },
+      {
+        "nama": "#cekdrive",
+        "count": 1
+      },
+      {
+        "nama": "#setopen",
+        "count": 1
+      },
+      {
+        "nama": "#setclose",
+        "count": 1
+      },
+      {
+        "nama": "#antilink",
+        "count": 1
+      },
+      {
+        "nama": "#say",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6283136493029@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 3
+      },
+      {
+        "nama": "#sticker",
+        "count": 4
+      },
+      {
+        "nama": "#speed",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "jid": "6283131983864@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#speed",
+        "count": 4
+      },
+      {
+        "nama": "#sticker",
+        "count": 10
+      },
+      {
+        "nama": "#menu",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "jid": "628974436454@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#sticker",
+        "count": 6
+      },
+      {
+        "nama": "#menu",
+        "count": 5
+      }
+    ]
+  }
+]
